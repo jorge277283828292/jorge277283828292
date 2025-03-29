@@ -35,8 +35,8 @@ GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=jorge277283828292&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-### CV WEB
 <br>
 <p align="center">
-  <a href="https://jorge277283828292.github.io/CV-WEB/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">:boom:CURRICULUM WEB:boom:</a>
+  🚀 📜 [Mi Currículum Web]
+  <a href="https://jorge277283828292.github.io/CV-WEB/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">CV WEB</a>
 </p>
