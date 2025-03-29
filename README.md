@@ -5,7 +5,6 @@
 </p>
 
 Languages  
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,10 +14,11 @@ Languages
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS3">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s" width="60px" alt="GO">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60px" alt="Go">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" width="60px" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px" alt="Python">
 </p>
+
 Technologies & Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git"/>
@@ -26,7 +26,10 @@ Technologies & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="VS Code"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="WordPress"/>
 </p>
+
 
 GitHub Stats  
 <p align="center">
