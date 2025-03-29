@@ -3,7 +3,6 @@
 <p align="center">
   Hello, welcome to my GitHub profile! I am a young person with great ambition to go far in this vast world of programming. Here is a small sample of the languages I have worked with.
 </p>
-
 Languages  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
@@ -35,15 +34,9 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorge277283828292&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-Contact Me
 
+### CV WEB
+<br>
 <p align="center">
-  <a href="jv7484031@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="+506 683060067">
-    <img src="https://img.shields.io/badge/Phone-%2304B300?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
+  <a href="https://jorge277283828292.github.io/CV-WEB/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">:boom:CURRICULUM WEB:boom:</a>
 </p>
-
