@@ -45,6 +45,6 @@
 
 <br>
 <p align="center">
-  🚀 📜 [Mi Currículum Web]
-  <a href="https://jorge277283828292.github.io/CV-WEB/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">CV WEB</a>
+  🚀 📜 
+  <a href="https://jorge277283828292.github.io/CV-WEB/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">[Mi Currículum Web]</a>
 </p>
