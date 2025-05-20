@@ -13,7 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60px" alt="Go">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px" alt="Python">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px" alt="C#">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60px" alt="SQL">
 </p>
+
 
 🎨 **Web Design**  
 <p align="center">
@@ -43,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="WordPress"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px" alt="Visual Studio"/>
 </p>
 
 👨‍💻 **GitHub Stats**  
@@ -57,7 +64,8 @@
 💯 **Java**          | ██████████  (Avanzado)  
 ⚡ **JavaScript**    | ███████░░░  (Intermedio)  
 🗄️ **SQL/MySQL**     | ███████░░░  (Intermedio)  
-🛠️ **Go**            | ████░░░░░░  (Básico-Intermedio)
+🛠️ **Go**            | ████░░░░░░  (Básico-Intermedio)  
+🧩 **C#**            | ███░░░░░░░  (Básico)
 
 <br>
 <p align="center">
