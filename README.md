@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 <p align="center">
-  Hello, welcome to my GitHub profile! I am a young person with great ambition to go far in this vast world of programming. Here is a small sample of the languages I have worked with.
+Welcome to my GitHub profile! I'm a self-taught programmer with strong ambition and a passion for technology. I'm always eager to improve and demonstrate what I’m capable of. Here's a small showcase of the languages and tools I’ve worked with so far!.
 </p>
 
 💻 **Programming Languages**  
