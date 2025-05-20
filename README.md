@@ -16,7 +16,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px" alt="C#">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60px" alt="SQL">
+  <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" width="60px" alt="SQL" title="SQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
