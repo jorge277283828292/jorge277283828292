@@ -1,75 +1,66 @@
-## Hi there 👋  
+<h1 align="center">👋 Hi there, I'm Jorge!</h1>
 
 <p align="center">
-Welcome to my GitHub profile! I'm a self-taught programmer with strong ambition and a passion for technology. I'm always eager to improve and demonstrate what I’m capable of. Here's a small showcase of the languages and tools I’ve worked with so far!.
+  <p align="center">• 🎂 18 years • 🌎 Costa Rica • 💻 Future Software Enginner</p>
 </p>
 
-💻 **Programming Languages**  
+---
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60px" alt="Go">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px" alt="Python">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px" alt="C#">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" width="60px" alt="SQL" title="SQL" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  👨‍💻 I'm a <strong>self-taught programmer</strong> with strong ambition and a passion for <strong>technology</strong>.<br>
+  I'm always eager to learn, improve, and demonstrate what I’m capable of.<br>
+  Below is a small showcase of the languages and tools I’ve worked with so far!
 </p>
 
+---
 
-🎨 **Web Design**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS3">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BWpo9Ze8IR8uUt8tobOD4FA%3D%3D">Visit Profile</a><br>
+  🧾 <strong>GitHub Page:</strong> <a href="https://jorge277283828292.github.io/CV-WEB/">My GitHub Portfolio</a><br>
+  📄 <strong>CV Web:</strong> <a href="https://jorge277283828292.github.io/cv_web/">See My Online CV</a>
 </p>
 
-🗄️ **Databases & Tools**  
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="60px" alt="SQL">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://it.komar.edu.iq/wp-content/uploads/sites/9/2018/04/mysql_workbench_service_provider_india.jpg" width="60px" alt="MySQL Workbench">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jorge277283828292&theme=cyberpunk&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-🛠️ **Technologies & Tools**  
+---
+
+<h2 align="center">💻 Languages & Tools</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="WordPress"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50px" alt="Visual Studio"/>
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+  
+<p align="center">
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
 </p>
 
-👨‍💻 **GitHub Stats**  
+</br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorge277283828292&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge277283828292&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-🚀 **Skill Levels**  
-💯 **Python**        | ██████████  (Avanzado)  
-💯 **HTML**          | ██████████  (Avanzado)  
-💯 **CSS**           | ██████████  (Avanzado)  
-💯 **Java**          | ██████████  (Avanzado)  
-⚡ **JavaScript**    | ███████░░░  (Intermedio)  
-🗄️ **SQL/MySQL**     | ███████░░░  (Intermedio)  
-🛠️ **Go**            | ████░░░░░░  (Básico-Intermedio)  
-🧩 **C#**            | ███░░░░░░░  (Básico)
+---
 
-<br>
 <p align="center">
-  🚀 📜 
-  <a href="https://jorge277283828292.github.io/cv_web/" style="color: rgb(0, 123, 255); text-decoration: none;" onmouseover="this.style.color='rgb(255, 99, 71)'" onmouseout="this.style.color='rgb(0, 123, 255)'">[Mi Currículum Web]</a>
+  🚀 Let's build something great together!
 </p>
