@@ -60,6 +60,11 @@
 </p>
 
 ---
+### 🚀 Future Projects:
+- 🎮 A simple 2D game  
+- 🌐 A website *(topic pending)*  
+- 📱 A mobile app *(topic pending)*  
+- 🤖 An AI *(simple for now)*
 
 <p align="center">
   🚀 Let's build something great together!
