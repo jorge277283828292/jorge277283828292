@@ -66,6 +66,3 @@
 - 📱 A mobile app *(topic pending)*  
 - 🤖 An AI *(simple for now)*
 
-<p align="center">
-  🚀 Let's build something great together!
-</p>
