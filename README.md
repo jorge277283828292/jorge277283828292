@@ -16,7 +16,7 @@
 
 <p align="center">
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BWpo9Ze8IR8uUt8tobOD4FA%3D%3D">Visit Profile</a><br>
-  🧾 <strong>GitHub Page:</strong> <a href="https://jorge277283828292.github.io/CV-WEB/">My GitHub Portfolio</a><br>
+  🧾 <strong>GitHub Page:</strong> <a href="https://github.com/jorge277283828292">My GitHub Portfolio</a><br>
   📄 <strong>CV Web:</strong> <a href="https://jorge277283828292.github.io/cv_web/">See My Online CV</a>
 </p>
 
