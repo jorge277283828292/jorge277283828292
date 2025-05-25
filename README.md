@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Jorge!</h1>
 
 <p align="center">
-  <p align="center">• 🎂 18 years • 🌎 Costa Rica • 💻 Future Software Enginner</p>
+  🎂 18 years • 🌎 Costa Rica • 💻 Future Software Engineer
 </p>
 
 ---
@@ -26,6 +26,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jorge277283828292&theme=cyberpunk&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge277283828292&layout=compact&theme=radical&cache_seconds=1" alt="Top Languages" />
 </p>
 
 ---
@@ -54,15 +58,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
 </p>
 
-</br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge277283828292&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
+
 ### 🚀 Future Projects:
 - 🎮 A simple 2D game  
 - 🌐 A website *(topic pending)*  
 - 📱 A mobile app *(topic pending)*  
 - 🤖 An AI *(simple for now)*
 
+---
+
+### 🎯 Goal
+To become a skilled backend developer and contribute to meaningful software projects that make a difference.
