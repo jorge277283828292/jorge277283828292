@@ -62,8 +62,8 @@
 
 ### 🚀 Future Projects:
 - 🎮 A simple 2D game  
-- 🌐 A website *(topic pending)*  
-- 📱 A mobile app *(topic pending)*  
+- 🌐 A website - Topic: An appointment system for a workshop.  
+- 📱 A mobile app  - Topic: An appointment system for a workshop.
 - 🤖 An AI *(simple for now)*
 
 ---
