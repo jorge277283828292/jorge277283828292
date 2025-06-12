@@ -67,7 +67,7 @@
 ---
 
 ### 🚀 Future Projects:
-- 🎮 A simple 2D game  
+- 🎮 A simple 2D game - Topic: About a Survival Game in Pygame.
 - 🌐 A website - Topic: An appointment system for a workshop.  
 - 📱 A mobile app  - Topic: An appointment system for a workshop.
 - 🤖 An AI *(simple for now)*
