@@ -61,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zoho.svg" height="40" alt="Zoho" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+  <img class="skill-icon" src="https://cursor.so/favicon.svg" alt="Cursor" title="Cursor" onerror="this.src='https://avatars.githubusercontent.com/u/110716027?s=200&v=4'" height="40" />
 </p>
 
 
