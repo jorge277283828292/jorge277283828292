@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Jorge!</h1>
 
 <p align="center">
-  🎂 18 years • 🌎 Costa Rica • 💻 Future Software Engineer
+  🎂 19 years • 🌎 Costa Rica • 💻 Future Software Engineer
 </p>
 
 ---
