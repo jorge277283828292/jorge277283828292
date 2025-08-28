@@ -16,8 +16,8 @@
 
 <p align="center">
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jorge-villarreal-66b340347/">Visit Profile</a><br>
-  🧾 <strong>GitHub Page:</strong> <a href="https://github.com/jorge277283828292">My GitHub Portfolio</a><br>
-  📄 <strong>CV Web:</strong> <a href="https://jorge277283828292.github.io/cv-web/">See My Online CV</a>
+  📄 <strong>CV Web:</strong> <a href="https://jorge277283828292.github.io/cv-web/">See My Online CV</a><br>
+  📧 <strong>Email:</strong> <a href="mailto:jjobsvilla@gmail.com">jjobsvilla@gmail.com</a><br>
 </p>
 
 ---
