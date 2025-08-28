@@ -59,14 +59,6 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="40" width="40" alt="Pandas"/>
 </p>
 
-
----
-
-### 🚀 Future Projects:
-- 🌐 A website - Topic: An appointment system for a workshop.  
-- 📱 A mobile app  - Topic: An appointment system for a workshop.
-- 🤖 An AI *(simple for now)*
-
 ---
 
 ### 🎯 Goal
