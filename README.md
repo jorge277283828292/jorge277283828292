@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Jorge!</h1>
 
 <p align="center">
-  🎂 19 years • 🌎 Costa Rica •
+  🎂 19 years • 🌎 Costa Rica • Future Informatic Engineer
 </p>
 
 ---
@@ -60,6 +60,3 @@
 </p>
 
 ---
-
-### 🎯 Goal
-To become a skilled backend developer and contribute to meaningful software projects that make a difference.
